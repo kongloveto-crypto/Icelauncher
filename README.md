@@ -315,4 +315,4 @@ fork → branch → commit → pull request
 ## 📜 License
 
 MIT License.
-See [LICENSE](LICENSE) for details.
+See [LICENSE](LICENSE) for details. 
